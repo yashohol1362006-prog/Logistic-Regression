@@ -11,6 +11,7 @@ for binary classification.
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Filter Warning 
 
 ## Concepts Covered
 - Data preprocessing
