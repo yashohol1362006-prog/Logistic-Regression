@@ -16,7 +16,7 @@ for binary classification.
 ## Concepts Covered
 - Data preprocessing
 - Feature selection
-- Train-test split
+- Train-test split 
 - Feature scaling
 - Logistic Regression
 - Model prediction
