@@ -9,7 +9,7 @@ for binary classification.
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn
+- Seaborn 
 - Scikit-learn
 - Filter Warning 
 
