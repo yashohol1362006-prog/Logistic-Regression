@@ -13,7 +13,7 @@ for binary classification.
 - Scikit-learn
 - Filter Warning 
 
-## Concepts Covered
+## Concepts Covered 
 - Data preprocessing
 - Feature selection
 - Train-test split 
