@@ -32,7 +32,7 @@ for binary classification.
 5. Scale the features
 6. Train the Logistic Regression model
 7. Make predictions
-8. Evaluate the model
+8. Evaluate the model 
 
 ## Results
 Add your model accuracy and other evaluation results here.
