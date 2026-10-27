@@ -8,7 +8,7 @@ for binary classification.
 - Python
 - NumPy
 - Pandas
-- Matplotlib
+- Matplotlib 
 - Seaborn 
 - Scikit-learn
 - Filter Warning 
